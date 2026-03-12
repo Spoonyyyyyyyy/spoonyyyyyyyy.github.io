@@ -195,3 +195,17 @@ L.marker([813.415, -1768.521  ])
   .addTo(Icons["KOS Ranges"])
 L.circle([813.415, -1768.521  ], {radius: 200})
   .addTo(Icons["KOS Ranges"])
+  
+// NOOSE Building
+
+L.marker([-473.171, 2495.174])
+  .addTo(Icons["KOS Ranges"])
+L.circle([-473.171, 2495.174 ], {radius: 200})
+  .addTo(Icons["KOS Ranges"])
+
+// Zancudo 
+
+L.marker([3118.293, -2177.244 ])
+  .addTo(Icons["KOS Ranges"])
+L.circle([3118.293, -2177.244 ], {radius: 750})
+  .addTo(Icons["KOS Ranges"])
